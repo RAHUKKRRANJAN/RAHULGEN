@@ -1,0 +1,68 @@
+# RAHULGEN Virtual Assistant
+
+A web-based virtual assistant inspired by RAHULGEN from Iron Man, built with HTML, CSS, and JavaScript. This assistant uses speech recognition and synthesis to interact with users and perform various tasks.
+
+## Features
+
+- Voice commands and responses
+- Time and date information
+- Web navigation (Google, YouTube, Facebook)
+- Quick access to Cyber Security Lab File
+- Web search functionality
+- Wikipedia search
+- Calculator access
+- Dynamic greetings based on time of day
+
+## Commands
+
+You can interact with JARVIS using the following voice commands:
+
+- "Hello" or "Hey" - RAHULGEN will greet you
+- "Open Google" - Opens Google in a new tab
+- "Open YouTube" - Opens YouTube in a new tab
+- "Open Facebook" - Opens Facebook in a new tab
+- "Open lab file" or "cyber security lab" - Opens the Cyber Security Lab File
+- "What is [topic]" - Searches Google for information
+- "Who is [person]" - Searches Google for information
+- "Wikipedia [topic]" - Searches Wikipedia for the specified topic
+- "Time" - Tells you the current time
+- "Date" - Tells you today's date
+- "Calculator" - Opens the calculator
+
+## How to Use
+
+1. Click the microphone button or press the talk button
+2. Speak your command clearly
+3. RAHULGEN will process your request and respond accordingly
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- Web Speech API (Speech Recognition & Speech Synthesis)
+- Font Awesome Icons
+- Google Fonts (Roboto Mono)
+
+## Live Demo
+
+The project is live at: [RAHULGEN Virtual Assistant](https://luxury-dango-fea801.netlify.app/)
+
+## Setup
+
+1. Clone the repository
+2. Open `index.html` in a modern web browser
+3. Allow microphone access when prompted
+4. Start interacting with RAHULGEN
+
+## Browser Compatibility
+
+This application works best in modern browsers that support the Web Speech API:
+- Google Chrome (Recommended)
+- Microsoft Edge
+- Safari
+- Firefox
+
+## Note
+
+Make sure your microphone is working and you've granted the necessary permissions to the browser for speech recognition functionality.
